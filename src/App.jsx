@@ -26,7 +26,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: 'url("https://i.ibb.co/wQVGVB6/eskimo-store.jpg")',
+            backgroundImage: 'url("fachada.png")',
             filter: 'blur(8px)',
             transform: 'scale(1.1)'
           }}
